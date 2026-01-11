@@ -54,7 +54,7 @@ Paste your key (stored locally using Chrome storage)
 🚀 Installation (Local Development)
 
 Clone this repository:
-git clone https://github.com/your-username/sticky-ai.git
+git clone https://github.com/pratippatel/sticky-ai-extension.git
 
 
 Open Chrome and navigate to:
